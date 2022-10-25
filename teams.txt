@@ -1,0 +1,5 @@
+cfc_pr;Coritiba;75;Couto Pereira
+barca_esp;Barcelona;100;Camp Nou
+bahia_ba;Bahia;73;Fonte Nova
+real_madrid_esp;Real Madrid;100;Santiago Bernabeu
+ibis_pe;Ibis;7;Ademir Cunha
